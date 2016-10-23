@@ -1,3 +1,4 @@
+[![Build Status] https://travis-ci.org/thordist15/chuck_joke.png] https://travis-ci.org/thordist15/chuck_joke.svg?branch=master
 # chuck_joke
 (T-303-HUGB, Hugbúnaðarfræði, 2016-3)
 
@@ -19,4 +20,3 @@ Sample program used to show students Gradle in action. Based on [Jón Ingi's Hel
 3. Make sure it runs on your setup: `./gradlew check` or `gradlew.bat check` if you are running on Windows.
 4. If everything is OK, you can use the scripts in the `bin/` folder to compile, package, run or deploy.
 5. To make the server run on a different port, other than 4567, you'll need to do `export PORT=1337` (for port 1337 on \*nix computers) or `set PORT=1337` on Windows.
-[![Build Status] https://travis-ci.org/thordist15/chuck_joke.png] (https://travis-ci.org/thordist15/chuck_joke.svg?branch=master)
